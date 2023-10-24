@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AW3sOkonmG6vsQQnlKdFvR/wY1yrDVc3Op2ICL0IbmIt+2eR732LpM+s32oTOojoL4CGx7N/kV4HN7MCVcAg2Q==",
+  "success": true,
+  "projectFilePath": "E:\\Exchange\\Exchange\\Exchange.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bisu\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
