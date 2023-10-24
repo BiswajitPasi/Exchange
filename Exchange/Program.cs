@@ -15,7 +15,7 @@
         {
             try
             {
-                // Create a new instance of the ExchangeApp class.
+                // Create a new instance of the ExchangeCurrency class.
                 var app = new ExchangeCurrency();
 
                 // Get the exchange rates asynchronously.
