@@ -1,12 +1,4 @@
 ﻿using Exchange;
-using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
-using System;
-using System.Collections.Generic;
-using System.Net.Http;
-using System.Threading.Tasks;
-
-
 // <summary>
 // Represents an application for retrieving and rendering exchange rates.
 // </summary>
